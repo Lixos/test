@@ -1,0 +1,12 @@
+h1 {
+  color: rgb(0, 255, 255);
+  font-size: 30px;
+  font-family: "Arial";
+  border: 1px solid rgb(50, 200, 255);
+
+
+}
+p {
+  color: rgb(100, 0, 200);
+  font-size: 20px;
+}
